@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 
 # Set OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "enter your Openai key here"
 
 import streamlit as st
 import openai
