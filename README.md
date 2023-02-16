@@ -15,11 +15,12 @@ pip install streamlit
 
 In order to use the GPT-3 model, you will need need an API key from OpenAI. 
 
-follow the following steps o get your API Key.
+follow the following steps here https://www.educative.io/answers/how-to-get-api-key-of-gpt-3
+to get your API Key.
 
-Once gotten, paste it in the blank space where it read "YOUR OPENAI API KEY".
+Once gotten, paste it in the blank space where it read  "enter your Openai key here"
 
-Then, run the code below
+Then, run the code
 
 streamlit run chatbot.py
 
